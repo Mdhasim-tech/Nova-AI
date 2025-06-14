@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Create Next App",
-  description: "Nova@Hasimtech!",
+  title: "Nova@Hasimtech!",
+  description: "Personal ai at Hasimtech",
 };
 
 export default function RootLayout({ children }) {
