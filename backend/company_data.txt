@@ -1,0 +1,21 @@
+Welcome to HasimTech — a modern AI-powered solutions company.
+
+⏰ Work Hours:
+Our company operates from Monday to Friday, 9 AM to 6 PM IST.
+We are closed on weekends and national holidays.
+
+💼 Services:
+We offer AI consulting, custom chatbot development, document intelligence solutions, and real-time data analytics dashboards for businesses across industries.
+
+📦 Refund Policy:
+Digital services are eligible for a refund within 14 days of purchase, subject to review. Subscription-based products can be canceled at any time.
+
+👨‍💼 Leave Policy:
+Employees can apply for leave via the internal HR portal. Leaves must be applied at least 48 hours in advance, except in emergencies.
+
+🛠️ Tech Stack:
+Our stack includes Python, LangChain, Next.js, MongoDB, FastAPI, and React. We integrate LLMs like Gemini, OpenAI, and Claude into enterprise apps.
+
+📧 Contact:
+For business inquiries, email us at hello@hasimtech.com
+"@ | Out-File -Encoding UTF8 company_data.txt
